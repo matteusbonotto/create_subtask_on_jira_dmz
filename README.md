@@ -10,4 +10,4 @@
 </div>
 
 Desenvolvi este projeto enquanto  era estagiário na SiDi Campinas.
-O projeto é open source, fique avontade para clonar e modificar :D!
+O projeto é open source, fique a vontade para clonar e modificar :D!
